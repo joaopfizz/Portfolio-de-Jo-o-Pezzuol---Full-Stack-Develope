@@ -3,5 +3,6 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
+  base: '/Portfolio-de-Jo-o-Pezzuol---Full-Stack-Develope/',
 })
 
